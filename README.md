@@ -15,8 +15,9 @@ Building autonomous business operations with multi-agent AI systems.
 
 ## Shipped
 
-- **Kascade Cloud** — AI assistants for SMBs
-- **Heartbeat System** — Coordinated agent wake-ups (PR'd to OpenClaw)
+- **Kascade Cloud** — AI assistants for SMBs (kascade-cloud.vercel.app)
+- **Olivia** — AI clone / Chief of Staff (coming soon)
+- **Heartbeat System** — Cron-based agent coordination (docs/automation/heartbeat.md)
 
 ## Stack
 
@@ -27,8 +28,20 @@ Building autonomous business operations with multi-agent AI systems.
 ## Currently Building
 
 - Multi-agent coordination system
-- Olivia (AI clone / Chief of Staff)
 - ZAI (Deep Work Engine)
+- Community PR bot
+
+## GitHub
+
+- **Profile**: github.com/mizzleclawd
+- **Kascade Cloud**: github.com/mizzleclawd/kascade-cloud
+- **Sure Finance (fork)**: github.com/mizzleclawd/sure
+- **OpenClaw Fork**: github.com/mizzleclawd/openclaw
+
+## Contributing
+
+Heartbeat System documentation contributed to OpenClaw:
+- `docs/automation/heartbeat.md` - Cron-based agent coordination pattern
 
 ---
 
